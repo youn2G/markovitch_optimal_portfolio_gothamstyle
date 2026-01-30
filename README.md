@@ -1,14 +1,6 @@
-# markovitch_optimal_portfolio_gothamstyle
-<img width="3000" height="1484" alt="image" src="https://github.com/user-attachments/assets/3d339c95-0f1d-4998-a3ae-212651e8aeb2" />
-<img width="1504" height="818" alt="Capture d’écran 2026-01-30 à 15 54 52" src="https://github.com/user-attachments/assets/ce8028bb-1746-454a-856b-1dc4297cec68" />
-<img width="1498" height="733" alt="Capture d’écran 2026-01-30 à 15 55 12" src="https://github.com/user-attachments/assets/85852fd1-36c8-4985-8fb7-097c253aca1d" />
-
-
 # 🚀 Modern Portfolio Optimizer (Markowitz MPT)
 
 This interactive Streamlit application empowers investors to build and visualize optimal asset allocations using the **Modern Portfolio Theory (MPT)** developed by Harry Markowitz. By simulating thousands of portfolios, the tool identifies the most efficient risk-reward trade-offs based on historical market data.
-
-
 
 ## 🛠 Features
 
@@ -62,6 +54,4 @@ Where $w$ represents the vector of weights and $\Sigma$ is the covariance matrix
 
 ## 📖 How to Use
 
-1.  Enter your desired tickers (e.g., `AAPL, BTC-USD, MSFT, GLD`).
-2.  Select the historical lookback period (e.g., 5 years).
-3.  Analyze the **Efficient Frontier** and review the suggested weights for your risk tolerance.
+1.  Enter your desired tickers (e.g
