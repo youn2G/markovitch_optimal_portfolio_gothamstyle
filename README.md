@@ -4,6 +4,12 @@
 <img width="1494" height="811" alt="Capture d’écran 2026-01-30 à 16 11 39" src="https://github.com/user-attachments/assets/662fcd1d-16d7-4784-920b-97a5f381b039" />
 <img width="1492" height="815" alt="Capture d’écran 2026-01-30 à 16 12 00" src="https://github.com/user-attachments/assets/e3f53e9a-c0d4-4dd6-acf0-fbf8df02d15f" />
 
+# 🚀 Modern Portfolio Optimizer (Markowitz MPT)
+<img width="1490" height="763" alt="Capture d’écran 2026-01-30 à 16 11 05" src="https://github.com/user-attachments/assets/47746afb-66a1-4ae3-baf4-eb99f220322f" />
+<img width="1474" height="778" alt="Capture d’écran 2026-01-30 à 16 11 19" src="https://github.com/user-attachments/assets/ce23ae38-1b95-41ba-9f54-ad3ba37e373f" />
+<img width="1494" height="811" alt="Capture d’écran 2026-01-30 à 16 11 39" src="https://github.com/user-attachments/assets/662fcd1d-16d7-4784-920b-97a5f381b039" />
+<img width="1492" height="815" alt="Capture d’écran 2026-01-30 à 16 12 00" src="https://github.com/user-attachments/assets/e3f53e9a-c0d4-4dd6-acf0-fbf8df02d15f" />
+
 
 This interactive Streamlit application empowers investors to build and visualize optimal asset allocations using the **Modern Portfolio Theory (MPT)** developed by Harry Markowitz. By simulating thousands of portfolios, the tool identifies the most efficient risk-reward trade-offs based on historical market data.
 
