@@ -57,6 +57,9 @@ Where $w$ represents the vector of weights and $\Sigma$ is the covariance matrix
     streamlit run app.py
     ```
 
-## 📖 How to Use
+📖 How to Use
+1. Enter your desired tickers (e.g., AAPL, BTC-USD, MSFT, GLD).
 
-1.  Enter your desired tickers (e.g
+2. Select the historical lookback period (e.g., 5 years).
+
+3. Analyze the Efficient Frontier and review the suggested weights for your risk tolerance.
