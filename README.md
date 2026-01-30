@@ -1,4 +1,8 @@
 # markovitch_optimal_portfolio_gothamstyle
+<img width="3000" height="1484" alt="image" src="https://github.com/user-attachments/assets/3d339c95-0f1d-4998-a3ae-212651e8aeb2" />
+<img width="1504" height="818" alt="Capture d’écran 2026-01-30 à 15 54 52" src="https://github.com/user-attachments/assets/ce8028bb-1746-454a-856b-1dc4297cec68" />
+<img width="1498" height="733" alt="Capture d’écran 2026-01-30 à 15 55 12" src="https://github.com/user-attachments/assets/85852fd1-36c8-4985-8fb7-097c253aca1d" />
+
 
 # 🚀 Modern Portfolio Optimizer (Markowitz MPT)
 
